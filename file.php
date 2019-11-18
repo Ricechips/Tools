@@ -44,4 +44,4 @@ echo file_get_content('data');
 
 
 
-<!-- ps:chmod 777 可读可写可执行 -->
+<!-- ps:chmod 777 可读可写可执行    feof()文件结束：返回非0值，文件未结束，返回0值 -->
